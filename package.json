@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-clickaway": "^2.2.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
